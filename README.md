@@ -1,6 +1,6 @@
 # cotizador_curso_react
 
-Proyecto 3: Cotizador de Seguros de Autos.
+Proyecto 3: Cotizador de Seguros de Autos.\
 Curso: React - La Guía Completa Hooks Context Redux MERN +15 Apps
 
 # Getting Started with Create React App
